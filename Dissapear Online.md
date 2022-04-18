@@ -1,4 +1,3 @@
----
 **KEY**
 | Symbol | Definition |
 | ------ | --- |
@@ -47,7 +46,7 @@
   * Laptop
 * Smartphone
   * Z-Fold
-  ---
+
 # Part 1: Data to Consider
 
 ## [Data Classification](https://bigid.com/blog/sensitive-information-guide/)
