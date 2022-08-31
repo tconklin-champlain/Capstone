@@ -1,0 +1,13 @@
+﻿T Conklin
+3/21/2022
+CAPSTONE
+
+
+
+
+Capstone Impact
+    
+The core components of my capstone are social and cultural, and legal. It can also be considered to touch on ethics but more as a sub-category, not the main idea. When working with identity, you are always in the social core of society. This capstone is about erasing our online presence, so it is almost anti-social in a way. Many considerations are being made with that idea in mind. Since privacy has become a hot-button political issue and often is associated with a liberal mindset away from government and corporate overhead, people often have negative associations with people who attempt this. You often see in the media the manic paranoid who hides from society by going overkill in their privacy, but that leads to a laxness in most of the public's security awareness by having them associate privacy and security with those stereotypes. I simply want my capstone to be a referential case study of someone with little knowledge of the subject attempting it and what I achieve in the end.
+
+
+The other core component that will come into play is the legal aspect. All the information I am attempting to recover and delete from major data brokers will lead to the eventual legal talk on what data I actually own. And questions on if the companies can even hold onto that info even after I ask them to delete it. The legal trouble does not end there, though, as many crime databases use this data and often will mark people of interest who look too clean. So I am going to find a healthy balance of privacy and pragmaticism on the subject. To finish off, I will explain the potential ethical issues. People who do the process I have will realize how easy it is to find OSINT (Open Source Information) on anyone they'd like to. This does lead to me having to create an educational warning essentially at the start of my capstone document, so people do not say I told them to do anything malicious. But that would cover it for my core concepts. I believe in this capstone and know regardless of the complications, it will be helpful to myself and whoever else finds it.
