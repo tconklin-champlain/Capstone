@@ -148,21 +148,3 @@
 1. MyChart
 1. Health
 ## 3: Digital Life
-### Usernames
-### Emails
-| Email | Website |
-| ------ | --- |
-| • timothy.conklin@mymail.champlain.edu     | • Gmail  |
-| • timcon111@gmail.com     | • Gmail  |
-| • timothy.conklin@yahoo.com     | • Ymail   |
-| • timothy.conklin111@yahoo.com     | • Ymail   |
-| • vernsmith1987@sudomail.com  | • Sudo   |
-| • browntown3498@sudomail.com | • Sudo  |
-| • knotme@sudomail.com | • Sudo  |
-### Leaks / Hacks
-| Email | Database |
-| ------ | --- |
-| • timothy.conklin@yahoo.com     | • [HIBP](https://haveibeenpwned.com/unifiedsearch/timothy.conklin@yahoo.com) \ [INTELX](https://intelx.io/?s=timothy.conklin%40yahoo.com) |
-| • timothy.conklin111@yahoo.com     | • [HIBP](https://haveibeenpwned.com/unifiedsearch/timothy.conklin111@yahoo.com) \ [INTELX](https://intelx.io/?s=timothy.conklin111%40yahoo.com) |
-| • timcon111@gmail.com     | • [HIBP](https://haveibeenpwned.com/unifiedsearch/timcon111@gmail.com) \ [INTELX](https://intelx.io/?s=timcon111%40gmail.com) |
-| • vernsmith1987@sudomail.com     | • [HIBP](https://haveibeenpwned.com/unifiedsearch/timcon111@gmail.com) \ [INTELX](https://intelx.io/?s=timcon111%40gmail.com) |
